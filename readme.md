@@ -1,3 +1,5 @@
+# PrivPass
+
 PrivPass is a simple password manager written in Python using minimal libraries.
 
 ![PrivPass Logo](./PrivPass_Logo.png)
