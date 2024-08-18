@@ -1,6 +1,10 @@
 PrivPass is a simple password manager written in Python using minimal libraries.
 
-![PrivPass Logo](https://raw.githubusercontent.com/BITRY/PrivPass/7eb140367248c0ab34d7246ac45bfc5ffb01c070/PrivPass_Logo.png)
+![PrivPass Logo](./PrivPass_Logo.png)
+
+## Installation
+
+To set up your environment and install the necessary packages, follow these steps:
 
 ```bash
 python3 -m venv .venv
